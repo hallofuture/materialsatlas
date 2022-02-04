@@ -36,6 +36,9 @@ Practically, the procedure for getting predictions consists in 3 steps
 
 The result including: Formulas, Bravais System, Bravais System Prob, Spacegroups, Spacegroups Prob, a, b, c, Alpha(α), Beta(β), Gamma(γ) (Bravais Lattices) based on your input. You can download the csv file of the result by clicking "Download results". 
 
+<img src="../img/Space_group_result.png" width=800>
+The results here shows that the TiO2 has the highest probability (0.19109) to belong to the monoclinic crystal system compared to all other 6 crystal systems.  
+It also predicts the structure has a maximum probability to belong to the symmetry group with space group number of 12, with a probability of 0.73273 compared to all other 226 space groups. 
 
 ### Future features
 
